@@ -19,7 +19,6 @@ I'm a developer passionate about technology and creating innovative solutions. W
  * Exploring new technologies like machine learning and IoT.
  * Designing intuitive and visually appealing interfaces.
 
- * 
 💡 Let’s Collaborate!
  * I’m open to collaborating on exciting projects or exchanging ideas. Feel free to connect with me!
 

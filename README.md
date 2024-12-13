@@ -11,7 +11,7 @@ I'm a developer passionate about technology and creating innovative solutions. W
 
 🌱 Featured Projects
  * Cashless Applications: QR code and token generation systems.
- * IoT Systems: Automating water pumps with ESP and Firebase.
+ * IoT Systems: Automating water pumps with microcontroller and Firebase.
  * LED Controllers: Custom effects for keyboards and devices.
    
 ✨ What I’m Passionate About

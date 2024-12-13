@@ -4,7 +4,7 @@ I'm a developer passionate about technology and creating innovative solutions. W
 
 🚀 Core Skills
  * Mobile Development: Native Android and iOS apps with modern UI design.
- * Embedded Systems: STM32, ATmega328 programming, circuit design, and hardware control.
+ * Embedded Systems: STM32, ATmega328 programming and hardware control.
  * Databases and Web Services: Firebase, SQL Server, and RESTful APIs.
  *Key Programming Languages: Kotlin, Python, C, C#.
 

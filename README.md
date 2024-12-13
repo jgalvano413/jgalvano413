@@ -6,7 +6,7 @@ I'm a developer passionate about technology and creating innovative solutions. W
  * Mobile Development: Native Android and iOS apps with modern UI design.
  * Embedded Systems: STM32, ATmega328 programming and hardware control.
  * Databases and Web Services: Firebase, SQL Server, and RESTful APIs.
- *Key Programming Languages: Kotlin, Python, C, C#.
+ * Key Programming Languages: Kotlin, Python, java, C/C++, C#.
 
 
 🌱 Featured Projects
